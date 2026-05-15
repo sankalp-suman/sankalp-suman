@@ -2,9 +2,11 @@
 
 # 🤖 Sankalp Kumar Suman
 
-### Aspiring AI/ML Engineer · Python Developer · Lifelong Learner
+### AI/ML Engineer · Python Developer · Machine Learning Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+with+Python;Exploring+Machine+Learning+%26+Deep+Learning;Passionate+about+AI+%26+Cloud+Technologies;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+**💼 Open for Opportunities** | **🤝 Open for Collaboration**
 
 </div>
 
@@ -12,13 +14,14 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Sankalp**, an AI/ML enthusiast based in **Bhubaneswar, India** 🇮🇳
+Hi! I'm **Sankalp**, an AI/ML enthusiast based in **Bhubaneswar, India** 🇮🇳. This is my personal portfolio repository where I showcase my learning journey, projects, and technical expertise in AI/ML and software development.
 
 - 🔭 Currently building projects in **Machine Learning & Deep Learning**
-- 🌱 Actively learning **Neural Networks, NLP, and Cloud deployment**
+- 🌱 Actively learning **Neural Networks, NLP, MLOps, and Cloud deployment**
 - 🧠 Exploring the intersection of **AI and real-world problem solving**
-- 📚 Familiar with **networking fundamentals** alongside software development
-- ⚡ Fun fact: I believe every dataset tells a story — you just have to listen carefully!
+- 📚 Experienced with **Data Science, Networking fundamentals**, and software development
+- 🎯 Focused on building scalable ML solutions and deploying models to production
+- ⚡ Belief: Every dataset tells a story — you just have to listen carefully!
 
 ---
 
@@ -40,10 +43,14 @@ Hi! I'm **Sankalp**, an AI/ML enthusiast based in **Bhubaneswar, India** 🇮�
 
 ### Cloud & Tools
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -51,14 +58,14 @@ Hi! I'm **Sankalp**, an AI/ML enthusiast based in **Bhubaneswar, India** 🇮�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumansankalp048-cloud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumansankalp048-cloud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sankalp-suman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp-suman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sumansankalp048-cloud&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sankalp-suman&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -68,23 +75,56 @@ Hi! I'm **Sankalp**, an AI/ML enthusiast based in **Bhubaneswar, India** 🇮�
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sumansankalp048-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sankalp-suman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔗 [View All Projects](https://github.com/sankalp-suman?tab=repositories)
+
+I regularly work on projects involving:
+- **Machine Learning Models** - Classification, regression, and clustering projects
+- **Deep Learning** - Neural networks for image and text processing
+- **Data Analysis** - Exploratory data analysis and visualization
+- **Web Applications** - Flask/FastAPI-based ML applications
+- **Cloud Deployment** - GCP deployment and MLOps practices
+
+*Check out my repositories for detailed implementations and documentation.*
+
+---
+
+## 🎓 Education & Experience
+
+### Currently Focused On:
+- **Deep Learning & Neural Networks** - Advanced architectures and optimization
+- **Natural Language Processing** - Transformers, embeddings, and language models
+- **Machine Learning Operations** - Model deployment, monitoring, and scaling
+- **Cloud Technologies** - Google Cloud Platform, containerization, and CI/CD
+
+### Areas of Expertise:
+- Python programming and data manipulation
+- Statistical analysis and data visualization
+- Machine learning model development and evaluation
+- Problem-solving and algorithm design
+- Collaborative development with Git/GitHub
 
 ---
 
 ## 🗺️ Learning Roadmap
 
 ```
-2024 ──────────────────────────────────────────────────────────── 2025+
-  │                                                                  │
-  ├─ ✅ Python Fundamentals                                          │
-  ├─ ✅ Data Analysis (NumPy, Pandas, Matplotlib)                   │
-  ├─ ✅ Classical ML (scikit-learn)                                 │
-  ├─ 🔄 Deep Learning (TensorFlow, PyTorch)              ──────────►│
-  ├─ 🔄 Natural Language Processing (NLP)                ──────────►│
-  └─ 🔜 MLOps & Cloud Deployment (GCP)                  ──────────►│
+2024 ───────────── 2025 ───────────── 2026 ──────────────── 2027+
+  │                 │                  │                      │
+  ├─ ✅ Python Fundamentals            │                      │
+  ├─ ✅ Data Analysis (NumPy, Pandas)  │                      │
+  ├─ ✅ Classical ML (scikit-learn)     │                      │
+  ├─ 🔄 Deep Learning (TensorFlow, PyTorch)  ──────────────► │
+  ├─ 🔄 Natural Language Processing (NLP)    ──────────────► │
+  ├─ 🔄 MLOps & Model Deployment (GCP)       ──────────────► │
+  └─ 🟢 Advanced Topics & Specialization      ──────────────► │
 ```
 
 ---
@@ -114,8 +154,12 @@ Hi! I'm **Sankalp**, an AI/ML enthusiast based in **Bhubaneswar, India** 🇮�
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sumansankalp048-cloud&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=sankalp-suman&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"The best way to predict the future is to build it."*
+
+---
+
+**Made with ❤️ by [Sankalp Kumar Suman](https://github.com/sankalp-suman)**
 
 </div>
