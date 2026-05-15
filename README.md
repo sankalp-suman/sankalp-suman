@@ -51,14 +51,14 @@ Hi! I'm **Sankalp**, an AI/ML enthusiast based in **Bhubaneswar, India** ðŸ‡®ðŸ‡
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumansankalp048-cloud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumansankalp048-cloud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sankalp-suman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp-suman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sumansankalp048-cloud&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sankalp-suman&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -68,7 +68,7 @@ Hi! I'm **Sankalp**, an AI/ML enthusiast based in **Bhubaneswar, India** ðŸ‡®ðŸ‡
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sumansankalp048-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sankalp-suman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -93,7 +93,7 @@ Hi! I'm **Sankalp**, an AI/ML enthusiast based in **Bhubaneswar, India** ðŸ‡®ðŸ‡
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-sankalp-b34a33401/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-suman-b34a33401/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sankalp__suman_048)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0009-0002-0224-8125)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumansankalp048@gmail.com)
